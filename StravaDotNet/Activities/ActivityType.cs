@@ -53,6 +53,14 @@ namespace Strava.Activities
         WeightTraining,
         Windsurf,
         Workout,
-        Yoga
+        Yoga,
+        VirtualRun,
+        Golf,
+        Handcycle,
+        Sail,
+        Skateboard,
+        Soccer,
+        Velomobile,
+        Wheelchair
     }
 }
